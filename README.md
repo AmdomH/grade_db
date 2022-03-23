@@ -5,3 +5,8 @@
 |  S/n | Task name | Assigned to | Status |
 | -----| --------- | ----------- | ------ |
 | 1 | Schema.py |  Amdom         |  not started |  
+
+## Status monitoring 
+
+- [x] Task 01 
+- [ ]  Task 02
